@@ -1,4 +1,5 @@
 ### https://github.com/tastycrayon
+"Don't solve tomorrow's problems because you don't know what they are". - The Primeagen
 
 - [Go](https://go.dev) is my primary programming language. Followed by [TypeScript](https://typescriptlang.org/), [PHP](https://www.php.net/), [C++](https://isocpp.org/) and [Python](https://python.org/)
 - Yes, I enjoy them and I'm not interested to participate in yet another language war. Just use what you like
