@@ -6,7 +6,7 @@
 - I use [Go](https://go.dev) | [Node.js](https://nodejs.org/) for web development
 - I have been playing with [Rust](https://www.php.net/) for a while now
 - [Svelte](https://svelte.dev/) and [React](https://reactjs.org/) are my goto JavaScript UI framework
-- [SvelteKit](https://kit.svelte.dev/) and [NextJS](https://nextjs.org) are my goto Svelte framework
+- [SvelteKit](https://kit.svelte.dev/) and [NextJS](https://nextjs.org) are my goto Fullstack framework
 - [PicoCSS](https://picocss.com) + [Bootstrap](https://getbootstrap.com) are my favourite CSS combo
 - I use [Chi](https://go-chi.io/) (Go) / [GqlGen](https://gqlgen.com/) (Go) / [Express](https://expressjs.com) (JS) (Node.js) for servers
 - I use [Python]() for machine learning and deep learning models.
